@@ -17,7 +17,6 @@ This is a mobile application that allows users to read the latest news from vari
 
 ## 📱 Screenshots
 
-*(You can include some screenshots here by uploading images and linking them)*
 <p align="center">
   <img src="https://github.com/Moawiah999/News-application/blob/main/Screenshots/screen_1.jpeg?raw=true" alt="Screen 1" width="30%" />
   <img src="https://github.com/Moawiah999/News-application/blob/main/Screenshots/screen_2.jpeg?raw=true" alt="Screen 2" width="30%" />
