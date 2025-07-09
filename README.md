@@ -19,7 +19,7 @@ This is a mobile application that allows users to read the latest news from vari
 
 *(You can include some screenshots here by uploading images and linking them)*
 
-![image alt](https://github.com/Moawiah999/News-application/tree/9c3dfe17e8c298a199b2a8bb9beeff1028b43604/Screenshots)
+![image alt](https://github.com/Moawiah999/News-application/blob/main/Screenshots/screen_1.jpeg?raw=true)
 
 ## 📦 Getting Started
 flutter version :3.29.3
